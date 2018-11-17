@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<script> 
+$('html,body').scrollTop(0);
+</script>
+
+
+<head>
+  <title> Experiment Questionaire </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    p {
+      text-align: left;    }
+    
+    body {
+      background: black;
+      text-align: left;
+      font-size: 88%;
+      font-family: Century Gothic;
+      text-align: left;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .body{
+      width: 100%;
+    }
+
+    form{
+      margin: -100 auto 10;
+      width: 90%;
+      clear: both;
+      padding: 2%;
+      border: 1px;
+      border-style: solid;
+      background-color: black;
+    }
+
+    input[type=submit] {
+      width: 135px;
+      height: 70px;
+      cursor:pointer;
+    }
+  </style>
+</head>
+
+
+<body class="body">
+
+<!-- Start of the actual, visible body of the file -->
+<form style="width: 40em;">
+
+<h2><strong>PRACTICE INSTRUCTIONS&nbsp;</strong></h2>
+<p>You are about to do <em>3</em>&nbsp;practice trials.</p>
+<p style="padding-left: 30px;">1. You will see a ready screen:&nbsp;<em>"Are you ready to hear the sentence?"</em></p>
+<p style="padding-left: 30px;">2. Then it will count down 3...2...1... and it will play the audio. Wait for the sentence to finish!</p>
+<p style="padding-left: 30px;">3. Type<strong>&nbsp;your ending </strong>into the input box!</p>
+<p style="padding-left: 30px;">4. <strong>Retype the entire sentence</strong> (the audio beginning + your new ending).&nbsp;</p>
+<p style="padding-left: 30px;">5. Repeat!&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><em>At this time, please take the following steps:&nbsp;</em></p>
+<p style="padding-left: 30px;">1. Please close all unnecessary browser windows and <strong>put away other distractions</strong>.&nbsp;<br /> 2. Make sure that your <strong>volume is on</strong> and loud enough to hear.<br /> 3. Please put your browser into <strong>full screen mode</strong>.&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<p><strong>Practice Instruction Comprehesion Questions:&nbsp;</strong><br /><em>1. What will you hear and what will you type into the box?</em><br /><input name="question1" type="radio" value="left" /><label for="q1left"> <label for="q1right">I will hear incomplete sentence beginnings, then type in my appropriate ending!</label></label><br /> <input name="question1" type="radio" value="right" /><label for="q1right">&nbsp;I will hear a full sentence, then type in my reaction to the sentence!</label></p>
+<p><em>2. What will you do after submitting your ending?</em><br /><input name="question2" type="radio" value="left" /><label for="q2left">&nbsp;I will retype&nbsp;<strong>only&nbsp;</strong>the sentence beginning!</label><br /> <input name="question2" type="radio" value="right" />&nbsp;<label for="q2right">I will retype <strong>the entire sentence</strong> (the beginning + my ending)!</label></p>
+<p><em>3. Did I put my computer into full screen?</em><br /><input name="question3" type="radio" value="left" /> Yes, I did. I am ready for the practice!<br /> <input name="question3" type="radio" value="right" />&nbsp;No, I haven't yet. I will do so before starting the practice!</p>
+</div>
+</form>
+  </html> 

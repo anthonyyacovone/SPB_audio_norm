@@ -1,0 +1,988 @@
+#
+# Results on Thursday November 15 2018 21:44:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318299,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318299,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318299,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1542318299,13706795b62631cc96ebc0e3189902f2,Message,16,3,test,NULL,2823
+1542318299,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer,jhksdfgkjh
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318299,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,4407
+1542318299,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer,You can brush the horse with the comb
+1542318299,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,16321
+#
+# Results on Thursday November 15 2018 21:51:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer1,jaskdlf
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,4381
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer2,jksldfj
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,5799
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,test,NULL,undefined
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,test,NULL,undefined
+1542318675,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,answer1,jskdfj
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,_REACTION_TIME_,2840
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,answer2,sdkf
+1542318675,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,_REACTION_TIME_,2139
+#
+# Results on Thursday November 15 2018 21:52:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 31
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer1,jaskdfj
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,4432
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer2,djskf
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,2931
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,test,NULL,undefined
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,test,NULL,undefined
+1542318724,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,answer1,kdsflj
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,_REACTION_TIME_,5085
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,answer2,sdfg
+1542318724,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,_REACTION_TIME_,2594
+#
+# Results on Thursday November 15 2018 21:52:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer1,sdjfkgl
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,10796
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer2,you can brush the horse with the comg.
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,10347
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,test,NULL,undefined
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,test,NULL,undefined
+1542318769,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,answer1,jdfkgjsdlfgjsdlfkgjsdfg. 
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,_REACTION_TIME_,5572
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,answer2,dfkgjsdfkgjsdlkfgj. 
+1542318769,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,_REACTION_TIME_,4712
+#
+# Results on Thursday November 15 2018 21:54:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer1,234
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,3510
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer2,asdf
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,1885
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,test,NULL,undefined
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,test,NULL,undefined
+1542318900,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,answer1,asdf
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,_REACTION_TIME_,5059
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,answer2,asdf
+1542318900,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,_REACTION_TIME_,1414
+#
+# Results on Thursday November 15 2018 21:56:31 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,test,NULL,undefined
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,test,NULL,undefined
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,answer1,comb
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,16,4,test,NULL,_REACTION_TIME_,5914
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,answer2,you can brush the horse with the comb
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,16,5,test,NULL,_REACTION_TIME_,7580
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,test,NULL,undefined
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,test,NULL,undefined
+1542318991,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,answer1,comb
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,17,4,test,NULL,_REACTION_TIME_,4724
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,answer2,you can brush the horse with the comb
+1542318991,13706795b62631cc96ebc0e3189902f2,Form,17,5,test,NULL,_REACTION_TIME_,5998
+#
+# Results on Friday November 16 2018 01:21:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,16,0,test,NULL,undefined
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,16,1,test,NULL,undefined
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,16,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,16,4,test,NULL,answer1,ds
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,16,4,test,NULL,_REACTION_TIME_,7264
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,16,5,test,NULL,answer2,asd
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,16,5,test,NULL,_REACTION_TIME_,2716
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,17,0,test,NULL,undefined
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,17,1,test,NULL,undefined
+1542331294,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,17,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,17,4,test,NULL,answer1,asdf
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,17,4,test,NULL,_REACTION_TIME_,3834
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,17,5,test,NULL,answer2,asdf
+1542331294,5029803a6ce0e4d5776d5fea444f5876,Form,17,5,test,NULL,_REACTION_TIME_,2165
+#
+# Results on Friday November 16 2018 01:41:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,0,test,NULL,undefined
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,1,test,NULL,undefined
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,9,4,test,NULL,answer1,wefgwergsdfg
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,9,4,test,NULL,_REACTION_TIME_,2309
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,9,5,test,NULL,answer2,sdfgsdfgsdfg
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,9,5,test,NULL,_REACTION_TIME_,2237
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,0,test,NULL,undefined
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,1,test,NULL,undefined
+1542332505,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,10,4,test,NULL,answer1,dfgsdfg
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,10,4,test,NULL,_REACTION_TIME_,1898
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,10,5,test,NULL,answer2,sdfgsdfg
+1542332505,5029803a6ce0e4d5776d5fea444f5876,Form,10,5,test,NULL,_REACTION_TIME_,2023
+#
+# Results on Friday November 16 2018 01:43:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,0,test,NULL,undefined
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,1,test,NULL,undefined
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,9,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,9,4,test,NULL,answer1,sdfgsfdg
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,9,4,test,NULL,_REACTION_TIME_,5300
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,9,5,test,NULL,answer2,sdfgsdfg
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,9,5,test,NULL,_REACTION_TIME_,1734
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,0,test,NULL,undefined
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,1,test,NULL,undefined
+1542332593,5029803a6ce0e4d5776d5fea444f5876,FlashSentence,10,2,test,NULL,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,10,4,test,NULL,answer1,sfgdf
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,10,4,test,NULL,_REACTION_TIME_,3163
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,10,5,test,NULL,answer2,sdfg
+1542332593,5029803a6ce0e4d5776d5fea444f5876,Form,10,5,test,NULL,_REACTION_TIME_,2459
+#
+# Results on Friday November 16 2018 16:36:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,11,0,spbc-mod-hi,1,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,11,1,spbc-mod-hi,1,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,11,2,spbc-mod-hi,1,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,11,4,spbc-mod-hi,1,answer1,sdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,11,4,spbc-mod-hi,1,_REACTION_TIME_,2091
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,11,5,spbc-mod-hi,1,answer2,asdfsadfasdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,11,5,spbc-mod-hi,1,_REACTION_TIME_,2641
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,0,spbc-mod-lo,2,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,1,spbc-mod-lo,2,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,16,2,spbc-mod-lo,2,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,16,4,spbc-mod-lo,2,answer1,asdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,16,4,spbc-mod-lo,2,_REACTION_TIME_,1485
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,16,5,spbc-mod-lo,2,answer2,sdfgsdfg
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,16,5,spbc-mod-lo,2,_REACTION_TIME_,1929
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,0,spba-mod-hi,3,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,1,spba-mod-hi,3,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,17,2,spba-mod-hi,3,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,17,4,spba-mod-hi,3,answer1,sdfgsdfg
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,17,4,spba-mod-hi,3,_REACTION_TIME_,1428
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,17,5,spba-mod-hi,3,answer2,sdfgdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,17,5,spba-mod-hi,3,_REACTION_TIME_,1707
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,22,0,spba-mod-lo,4,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,22,1,spba-mod-lo,4,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,22,2,spba-mod-lo,4,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,22,4,spba-mod-lo,4,answer1,asdfadf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,22,4,spba-mod-lo,4,_REACTION_TIME_,2855
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,22,5,spba-mod-lo,4,answer2,asdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,22,5,spba-mod-lo,4,_REACTION_TIME_,1189
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,27,0,spbc-mod-hi,5,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,27,1,spbc-mod-hi,5,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,27,2,spbc-mod-hi,5,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,27,4,spbc-mod-hi,5,answer1,asdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,27,4,spbc-mod-hi,5,_REACTION_TIME_,1258
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,27,5,spbc-mod-hi,5,answer2,asdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,27,5,spbc-mod-hi,5,_REACTION_TIME_,1460
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,32,0,spbc-mod-lo,6,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,32,1,spbc-mod-lo,6,undefined
+1542386185,13706795b62631cc96ebc0e3189902f2,FlashSentence,32,2,spbc-mod-lo,6,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,32,4,spbc-mod-lo,6,answer1,asdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,32,4,spbc-mod-lo,6,_REACTION_TIME_,1450
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,32,5,spbc-mod-lo,6,answer2,asdfasdf
+1542386185,13706795b62631cc96ebc0e3189902f2,Form,32,5,spbc-mod-lo,6,_REACTION_TIME_,1528
+#
+# Results on Friday November 16 2018 16:58:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,12,0,spbc-mod-lo,1,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,12,1,spbc-mod-lo,1,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,12,2,spbc-mod-lo,1,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,12,4,spbc-mod-lo,1,answer1,nasdf
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,12,4,spbc-mod-lo,1,_REACTION_TIME_,2109
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,12,5,spbc-mod-lo,1,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,12,5,spbc-mod-lo,1,_REACTION_TIME_,4689
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,13,0,spba-mod-hi,2,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,13,1,spba-mod-hi,2,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,13,2,spba-mod-hi,2,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,13,4,spba-mod-hi,2,answer1,dfkg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,13,4,spba-mod-hi,2,_REACTION_TIME_,1392
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,13,5,spba-mod-hi,2,answer2,sfdg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,13,5,spba-mod-hi,2,_REACTION_TIME_,1087
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,18,0,spba-mod-lo,3,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,18,1,spba-mod-lo,3,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,18,2,spba-mod-lo,3,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,18,4,spba-mod-lo,3,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,18,4,spba-mod-lo,3,_REACTION_TIME_,1008
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,18,5,spba-mod-lo,3,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,18,5,spba-mod-lo,3,_REACTION_TIME_,1043
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,23,0,spbc-mod-hi,4,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,23,1,spbc-mod-hi,4,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,23,2,spbc-mod-hi,4,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,23,4,spbc-mod-hi,4,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,23,4,spbc-mod-hi,4,_REACTION_TIME_,958
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,23,5,spbc-mod-hi,4,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,23,5,spbc-mod-hi,4,_REACTION_TIME_,1197
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,28,0,spbc-mod-lo,5,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,28,1,spbc-mod-lo,5,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,28,2,spbc-mod-lo,5,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,28,4,spbc-mod-lo,5,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,28,4,spbc-mod-lo,5,_REACTION_TIME_,1046
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,28,5,spbc-mod-lo,5,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,28,5,spbc-mod-lo,5,_REACTION_TIME_,1079
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,29,0,spba-mod-hi,6,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,29,1,spba-mod-hi,6,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,29,2,spba-mod-hi,6,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,29,4,spba-mod-hi,6,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,29,4,spba-mod-hi,6,_REACTION_TIME_,1034
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,29,5,spba-mod-hi,6,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,29,5,spba-mod-hi,6,_REACTION_TIME_,1009
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,34,0,spba-instr-lo,7,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,34,1,spba-instr-lo,7,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,34,2,spba-instr-lo,7,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,34,4,spba-instr-lo,7,answer1,sfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,34,4,spba-instr-lo,7,_REACTION_TIME_,1031
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,34,5,spba-instr-lo,7,answer2,sfdg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,34,5,spba-instr-lo,7,_REACTION_TIME_,1000
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,39,0,spbc-instr-hi,8,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,39,1,spbc-instr-hi,8,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,39,2,spbc-instr-hi,8,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,39,4,spbc-instr-hi,8,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,39,4,spbc-instr-hi,8,_REACTION_TIME_,838
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,39,5,spbc-instr-hi,8,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,39,5,spbc-instr-hi,8,_REACTION_TIME_,1035
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,44,0,spbc-instr-lo,9,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,44,1,spbc-instr-lo,9,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,44,2,spbc-instr-lo,9,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,44,4,spbc-instr-lo,9,answer1,dfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,44,4,spbc-instr-lo,9,_REACTION_TIME_,866
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,44,5,spbc-instr-lo,9,answer2,dwfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,44,5,spbc-instr-lo,9,_REACTION_TIME_,976
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,45,0,spba-instr-hi,10,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,45,1,spba-instr-hi,10,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,45,2,spba-instr-hi,10,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,45,4,spba-instr-hi,10,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,45,4,spba-instr-hi,10,_REACTION_TIME_,866
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,45,5,spba-instr-hi,10,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,45,5,spba-instr-hi,10,_REACTION_TIME_,860
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,50,0,spba-instr-lo,11,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,50,1,spba-instr-lo,11,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,50,2,spba-instr-lo,11,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,50,4,spba-instr-lo,11,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,50,4,spba-instr-lo,11,_REACTION_TIME_,899
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,50,5,spba-instr-lo,11,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,50,5,spba-instr-lo,11,_REACTION_TIME_,1023
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,55,0,spbc-instr-hi,12,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,55,1,spbc-instr-hi,12,undefined
+1542387482,13706795b62631cc96ebc0e3189902f2,FlashSentence,55,2,spbc-instr-hi,12,undefined
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,55,4,spbc-instr-hi,12,answer1,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,55,4,spbc-instr-hi,12,_REACTION_TIME_,905
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,55,5,spbc-instr-hi,12,answer2,sdfg
+1542387482,13706795b62631cc96ebc0e3189902f2,Form,55,5,spbc-instr-hi,12,_REACTION_TIME_,921
